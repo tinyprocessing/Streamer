@@ -44,7 +44,7 @@ while True:
 
 		{
 		   "client":{
-			  "name":"89998394668",
+			  "name":"89998394665",
 			  "version":"0.01",
 			  "to":"89998394667",
 			  "frame":" """ + string_encode + """ "
